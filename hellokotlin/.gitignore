@@ -1,0 +1,7 @@
+# Exlcude intellj folder 
+\.idea/
+vcs.xml
+#Exclude target/output/bin/generated type of folders
+out/
+*.log*
+*.iml
